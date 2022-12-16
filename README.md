@@ -1,5 +1,5 @@
 ### Hi there 👋
-!Тихий Иван
+Тихий Иван
 
 ![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114713028/201254326-f8cffe95-26ff-461d-910d-d865af3c500b.png)
 
