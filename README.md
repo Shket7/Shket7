@@ -9,3 +9,4 @@
 
 //$$\bar{E_{1}^{2}}=\sqrt{\frac{F*a^{x-1}}{(x-1)*x}}+\alpha^{\frac{1}{3}}_1+\beta_2^{\frac{2}{3}}
 //F=G*\frac{m_1*m_2}{R^{2}}//f(x)=ax^{2}+bx=c$$
+![mermaid-diagram-2022-12-23-092631](https://user-images.githubusercontent.com/114713028/209258778-f44ebd1e-f7c5-4878-b44d-17f8faa3d183.png)
